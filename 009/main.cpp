@@ -14,6 +14,7 @@ int main(int argc, char **argv){
                                          << b << " "
                                          << c << " "
                                          << endl; 
+                        cout << "product: " << a*b*c << endl;
                     } 
                 } 
             } 
