@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -o main
+	g++ -std=c++0x main.cpp -o main
